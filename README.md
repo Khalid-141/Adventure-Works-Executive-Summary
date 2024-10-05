@@ -1,5 +1,8 @@
 # Adventure Works - Executive Summary
 
+![Executive Summary](https://github.com/user-attachments/assets/c380daa1-1a3e-4829-9667-efcb83c3a8b7)
+
+
 ### Dashboard Link : https://docs.google.com/spreadsheets/d/13hSVy2znulV3emNhgHvvnjhGjZfgYUFU/edit?usp=drive_link&ouid=115038762084746239933&rtpof=true&sd=true
 
 ## Problem Statement
